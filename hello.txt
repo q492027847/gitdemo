@@ -19,7 +19,4 @@ hello
 hello
 hello
 hello master!
-hello hot-fix 
-123123
-123123
-123123
+hello hot-fix
